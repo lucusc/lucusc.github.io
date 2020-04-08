@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lucus Crawford</title>
-    <link>http://lucuscrawford.com/</link>
-    <description>Recent content on Lucus Crawford</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://lucuscrawford.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucus Crawford</title><link>https://www.lucuscrawford.com/</link><description>Recent content on Lucus Crawford</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.lucuscrawford.com/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
